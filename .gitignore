@@ -1,0 +1,25 @@
+<<<<<<< HEAD
+*.iml
+.DS_Store
+.gradle
+
+/.idea
+/build
+/sign.properties
+/local.properties
+/gradle.properties
+/app/build
+/app/src/gen
+=======
+*.iml
+.DS_Store
+.gradle
+
+/.idea
+/build
+/sign.properties
+/local.properties
+/gradle.properties
+/app/build
+/app/src/gen
+>>>>>>> 8be0222428a13e4467051cdcfb9b2f63a534965f
